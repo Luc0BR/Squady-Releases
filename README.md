@@ -1,3 +1,3 @@
-﻿# Squad Releases
+﻿# Squady Releases
 
-Instaladores e atualizacoes automaticas do Squad. Nao contem codigo-fonte.
+Instaladores e atualizacoes automaticas do Squady. Nao contem codigo-fonte.
